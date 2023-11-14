@@ -21,9 +21,16 @@ mono_crash.*
 [Dd]ebugPublic/
 [Rr]elease/
 [Rr]eleases/
-[Cc]ontent/
+untitled_category/
+untitled_category/
+Megascans/
+MSPresets/
 Intermediate/
+StarterContent/
+LevelPrototyping/
+Collections/
 [Ii]ntermediate/
+AnimStarterPack/
 x64/
 x86/
 [Ww][Ii][Nn]32/
